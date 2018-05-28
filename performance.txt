@@ -1,0 +1,78 @@
+Far Cry 5,800Intel,105,65
+Far Cry 5,800AMD,92,60
+Far Cry 5,1100Intel,119,83
+Far Cry 5,1100IntelOC,124,86
+Far Cry 5,1100AMD,120,79
+Far Cry 5,1100AMDOC,121,82
+Far Cry 5,1600Intel,164,119
+Far Cry 5,1600IntelOC,149,110
+Far Cry 5,1600AMD,138,105
+Far Cry 5,1600AMDOC,142,109
+Far Cry 5,2000Intel,182,128
+Far Cry 5,2000IntelOC,186,137
+Far Cry 5,2000AMDOC,161,115
+Grand Theft Auto 5,800Intel,110,80
+Grand Theft Auto 5,800AMD,98,76
+Grand Theft Auto 5,1100Intel,124,108
+Grand Theft Auto 5,1100IntelOC,128,110
+Grand Theft Auto 5,1100AMD,116,103
+Grand Theft Auto 5,1100AMDOC,118,105
+Grand Theft Auto 5,1600Intel,142,120
+Grand Theft Auto 5,1600IntelOC,140,118
+Grand Theft Auto 5,1600AMD,134,116
+Grand Theft Auto 5,1600AMDOC,138,117
+Grand Theft Auto 5,2000Intel,158,134
+Grand Theft Auto 5,2000IntelOC,162,139
+Grand Theft Auto 5,2000AMDOC,150,126
+Playerunknown's Battlegrounds,800Intel,119,90
+Playerunknown's Battlegrounds,800AMD,115,85
+Playerunknown's Battlegrounds,1100Intel,149,121
+Playerunknown's Battlegrounds,1100IntelOC,157,130
+Playerunknown's Battlegrounds,1100AMD,142,117
+Playerunknown's Battlegrounds,1100AMDOC,145,119
+Playerunknown's Battlegrounds,1600Intel,165,139
+Playerunknown's Battlegrounds,1600IntelOC,162,135
+Playerunknown's Battlegrounds,1600AMD,160,134
+Playerunknown's Battlegrounds,1600AMDOC,162,136
+Playerunknown's Battlegrounds,2000Intel,172,146
+Playerunknown's Battlegrounds,2000IntelOC,179,152
+Playerunknown's Battlegrounds,2000AMDOC,171,143
+Fortnite,800Intel,215,110
+Fortnite,800AMD,194,94
+Fortnite,1100Intel,242,122
+Fortnite,1100IntelOC,246,126
+Fortnite,1100AMD,226,118
+Fortnite,1100AMDOC,228,120
+Fortnite,1600Intel,282,147
+Fortnite,1600IntelOC,275,139
+Fortnite,1600AMD,256,134
+Fortnite,1600AMDOC,264,138
+Fortnite,2000Intel,305,166
+Fortnite,2000IntelOC,315,169
+Fortnite,2000AMDOC,288,151
+Destiny 2,800Intel,110,80
+Destiny 2,800AMD,104,78
+Destiny 2,1100Intel,125,98
+Destiny 2,1100IntelOC,128,101
+Destiny 2,1100AMD,110,93
+Destiny 2,1100AMDOC,113,95
+Destiny 2,1600Intel,142,110
+Destiny 2,1600IntelOC,140,107
+Destiny 2,1600AMD,133,105
+Destiny 2,1600AMDOC,137,108
+Destiny 2,2000Intel,152,114
+Destiny 2,2000IntelOC,157,118
+Destiny 2,2000AMDOC,145,113
+Counter-Strike : Global Offensive,800Intel,220,152
+Counter-Strike : Global Offensive,800AMD,210,143
+Counter-Strike : Global Offensive,1100Intel,262,182
+Counter-Strike : Global Offensive,1100IntelOC,265,185
+Counter-Strike : Global Offensive,1100AMD,245,172
+Counter-Strike : Global Offensive,1100AMDOC,248,174
+Counter-Strike : Global Offensive,1600Intel,330,235
+Counter-Strike : Global Offensive,1600IntelOC,340,245
+Counter-Strike : Global Offensive,1600AMD,329,234
+Counter-Strike : Global Offensive,1600AMDOC,334,235
+Counter-Strike : Global Offensive,2000Intel,362,254
+Counter-Strike : Global Offensive,2000IntelOC,367,257
+Counter-Strike : Global Offensive,2000AMDOC,348,249

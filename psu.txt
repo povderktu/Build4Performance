@@ -1,0 +1,5 @@
+CoolerMaster,MasterWatt,600w,52
+Corsair,VS550,550w,37
+FractalDesign,IntegraM,650w,75
+FractalDesign,IntegraM,750w,84
+EVGA,SuperNovaG3,750w,136

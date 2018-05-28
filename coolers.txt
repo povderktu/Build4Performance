@@ -1,0 +1,3 @@
+CoolerMaster,Hyper 212 EVO, 33
+Noctua,NH-D15, 98
+Corsair,H115i, 135
